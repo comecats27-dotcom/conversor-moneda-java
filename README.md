@@ -31,13 +31,20 @@ Este proyecto fue desarrollado como parte del programa de formación Java de Alu
 Sea bienvenido/a al Conversor de Moneda
 *****************************************
 
-1) Dólar => Peso Argentino
-2) Peso Argentino => Dólar
-3) Dólar => Real Brasileño
-4) Real Brasileño => Dólar
-5) Dólar => Peso Colombiano
-6) Peso Colombiano => Dólar
-7) Salir
+## 📌 Ejemplo de uso
+
+*****************************************
+Sea bienvenido/a al Conversor de Moneda
+*****************************************
+
+1) Dólar → Peso Argentino
+2) Peso Argentino → Dólar
+3) Dólar → Real Brasileño
+4) Real Brasileño → Dólar
+5) Dólar → Peso Chileno
+6) Peso Chileno → Dólar
+7) Ver historial
+8) Salir
 
 ---
 
