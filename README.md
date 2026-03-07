@@ -47,7 +47,8 @@ Sea bienvenido/a al Conversor de Moneda
 2. Abrir el proyecto en IntelliJ IDEA
 3. Ejecutar la clase `ConversorApp`
 4. Elegir una opción del menú
-
+5. Ejemplo de uso
+   ![GIF del Conversor](conversor-moneda.gif)
 ---
 
 ## 📚 Autor
